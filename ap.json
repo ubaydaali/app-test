@@ -1,26 +1,68 @@
 [
   {
-    "id": 1,
-    "title": "قميص كاجوال عصري",
-    "price": 29.99,
-    "description": "قميص قطني مريح عالي الجودة بتصميم عصري يناسب جميع المناسبات.",
-    "category": "men's clothing",
-    "image": "https://voca-land.sgp1.cdn.digitaloceanspaces.com/0/1757653354284/afc6dd51.jpg"
+    "id": 6,
+    "title": "Mechanical Keyboard TKL",
+    "price": 149,
+    "description": "Tenkeyless mechanical keyboard with Cherry MX switches and RGB backlighting.",
+    "category": "Electronics",
+    "category_image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+    "createdAt": "2026-04-05T23:44:17.565Z",
+    "updatedAt": "2026-04-05T23:44:17.565Z"
   },
   {
-    "id": 2,
-    "title": "سترة شتوية أنيقة",
-    "price": 85.50,
-    "description": "سترة ثقيلة توفر الدفء والأناقة في فصل الشتاء مع تصميم كلاسيكي.",
-    "category": "men's clothing",
-    "image": "https://media.burford.co.uk/images/SNY04089.jpg_edit.width-1440_05001m7uKQ0crRoI.jpg"
+    "id": 5,
+    "title": "Stainless Steel Water Bottle",
+    "price": 34.99,
+    "description": "Triple-wall insulated 32 oz bottle keeps drinks cold 24 hrs, hot 12 hrs.",
+    "category": "Lifestyle",
+    "category_image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800",
+    "createdAt": "2026-04-05T23:44:17.529Z",
+    "updatedAt": "2026-04-05T23:44:17.529Z"
+  },
+  {
+    "id": 4,
+    "title": "Running Shoes Pro",
+    "price": 129,
+    "description": "Lightweight mesh running shoes with carbon-fibre plate and energy-return foam.",
+    "category": "Footwear",
+    "category_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "createdAt": "2026-04-05T23:44:17.493Z",
+    "updatedAt": "2026-04-05T23:44:17.493Z"
   },
   {
     "id": 3,
-    "title": "تيشيرت رياضي خفيف",
-    "price": 19.00,
-    "description": "تيشيرت مثالي للتمارين الرياضية، سريع الجفاف وذو ملمس ناعم.",
-    "category": "men's clothing",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTilJ4bFUZyWueFfRz8hVJfa4-ifVDJn9IPBuU_XAZg5w&s"
+    "title": "Minimalist Desk Lamp",
+    "price": 89.95,
+    "description": "Touch-dimmable LED desk lamp with 3 color modes and USB-C charging port.",
+    "category": "Home & Office",
+    "category_image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=400",
+    "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=800",
+    "createdAt": "2026-04-05T23:44:17.444Z",
+    "updatedAt": "2026-04-05T23:44:17.444Z"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "price": 299.99,
+    "description": "Premium over-ear headphones with 30-hour battery, adaptive ANC and rich bass.",
+    "category": "Electronics",
+    "category_image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "createdAt": "2026-04-05T23:44:17.408Z",
+    "updatedAt": "2026-04-05T23:44:17.408Z"
+  },
+  {
+    "id": 1,
+    "title": "Classic Leather Wallet",
+    "price": 49.99,
+    "description": "A slim, full-grain leather bifold wallet with RFID blocking and 6 card slots.",
+    "category": "Accessories",
+    "category_image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800",
+    "createdAt": "2026-04-05T23:44:17.100Z",
+    "updatedAt": "2026-04-05T23:44:17.100Z"
   }
 ]

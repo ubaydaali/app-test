@@ -2,17 +2,82 @@
   {
     "id": 1,
     "title": "طقم رجالي عصري",
-    "price": 10.0,
-    "description": "طقم رجالي متكامل بتصميم تركي أنيق، مصنوع من خامات عالية الجودة تضمن الراحة والأناقة في الاستخدام اليومي.",
+    "price": 120.0,
+    "description": "طقم رجالي متكامل بتصميم تركي أنيق، مصنوع من خامات عالية الجودة تضمن الراحة والأناقة.",
     "category": "ملابس رجالي",
+    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
     "image": "https://static.modamixtr.com/image/cache/catalog/products/34761-1600x1600.jpg"
   },
   {
     "id": 2,
+    "title": "جاكيت شتوي دافئ",
+    "price": 85.5,
+    "description": "جاكيت شتوي مبطن، مثالي للأجواء الباردة ويعطيك مظهراً جذاباً.",
+    "category": "ملابس رجالي",
+    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
+    "image": "https://scobastore.com/cdn/shop/articles/A_Comprehensive_Guide_to_Choosing_Winter_Clothes.jpg?v=1694948974"
+  },
+  {
+    "id": 3,
+    "title": "تيشيرت صيفي خفيف",
+    "price": 15.0,
+    "description": "تيشيرت قطني مريح للاستخدام اليومي.",
+    "category": "ملابس رجالي",
+    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
+    "image": "https://www.ikea.com/sa/ar/images/products/komplement-clothes-rail-white__1203424_pe906301_s5.jpg"
+  },
+  {
+    "id": 4,
+    "title": "قميص كاجوال",
+    "price": 25.0,
+    "description": "قميص مناسب لأوقات العمل والخروجات السريعة.",
+    "category": "ملابس رجالي",
+    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
+    "image": "https://play-lh.googleusercontent.com/c0KYDKRdTOdHag0U0BLmgyjsSJYb_1HgLjDnBgajCJt6FdtstOy2prUwpU30KoAEtGNH=w240-h480-rw"
+  },
+  {
+    "id": 5,
     "title": "فستان كلاسيكي",
-    "price": 10.0,
+    "price": 150.0,
     "description": "فستان نسائي بتصميم راقٍ ولمسات كلاسيكية، يبرز الأنوثة ويناسب جميع أوقاتك المميزة.",
     "category": "ملابس نسائي",
+    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
     "image": "https://www.bazaareon.com/i/l/000/0001137_-.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "طقم صديق للبيئة",
+    "price": 95.0,
+    "description": "ملابس مصممة من مواد عضوية مريحة جداً للبشرة.",
+    "category": "ملابس نسائي",
+    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
+    "image": "https://www.ekolojik.com.tr/images/dogal-giysiler.jpg"
+  },
+  {
+    "id": 7,
+    "title": "بلوزة ربيعية أنيقة",
+    "price": 35.0,
+    "description": "بلوزة بألوان زاهية تناسب فصل الربيع.",
+    "category": "ملابس نسائي",
+    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
+    "image": "https://img.joomcdn.net/74568732469f4db8b2fa834d812121b00048aa76_original.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "فستان سهرة مميز",
+    "price": 200.0,
+    "description": "فستان سهرة يخطف الأنظار في المناسبات الكبرى.",
+    "category": "ملابس نسائي",
+    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOu3_IrhZmgCUfBRYY_eEXOZBsLHeT8m0hA&s"
+  },
+  {
+    "id": 9,
+    "title": "ترنج أطفال شتوي",
+    "price": 45.0,
+    "description": "ترنج شتوي ثقيل لحماية طفلك من البرد بألوان مبهجة.",
+    "category": "ملابس أطفال",
+    "category_image": "https://alaunna.com/cdn/shop/articles/tshkyl-mn-ahdth-modylat-trnjat-atfal-shtoy-2023-216634_1024x1024.jpg?v=1697116331",
+    "image": "https://alaunna.com/cdn/shop/articles/tshkyl-mn-ahdth-modylat-trnjat-atfal-shtoy-2023-216634_1024x1024.jpg?v=1697116331"
   }
 ]

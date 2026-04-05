@@ -1,1 +1,80 @@
 
+[
+  {
+    "id": 7,
+    "title": "بطاطا مقلية ",
+    "price": 13,
+    "description": "اهلا وسهلا بكم جميعا",
+    "category": "ملابس اطفال",
+    "category_image": "https://alaunna.com/cdn/shop/articles/kyf-taatny-banak-altfl-otkhtary-mlabs-atfal-mnasb-lh-301848_1024x1024.jpg?v=1697116323",
+    "image": "https://alaunna.com/cdn/shop/articles/kyf-taatny-banak-altfl-otkhtary-mlabs-atfal-mnasb-lh-301848_1024x1024.jpg?v=1697116323",
+    "createdAt": "2026-04-05T23:57:54.171Z",
+    "updatedAt": "2026-04-05T23:57:54.171Z"
+  },
+  {
+    "id": 6,
+    "title": "Mechanical Keyboard TKL",
+    "price": 149,
+    "description": "Tenkeyless mechanical keyboard with Cherry MX switches and RGB backlighting.",
+    "category": "Electronics",
+    "category_image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+    "createdAt": "2026-04-05T23:44:17.565Z",
+    "updatedAt": "2026-04-05T23:44:17.565Z"
+  },
+  {
+    "id": 5,
+    "title": "Stainless Steel Water Bottle",
+    "price": 34.99,
+    "description": "Triple-wall insulated 32 oz bottle keeps drinks cold 24 hrs, hot 12 hrs.",
+    "category": "Lifestyle",
+    "category_image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800",
+    "createdAt": "2026-04-05T23:44:17.529Z",
+    "updatedAt": "2026-04-05T23:44:17.529Z"
+  },
+  {
+    "id": 4,
+    "title": "Running Shoes Pro",
+    "price": 129,
+    "description": "Lightweight mesh running shoes with carbon-fibre plate and energy-return foam.",
+    "category": "Footwear",
+    "category_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "createdAt": "2026-04-05T23:44:17.493Z",
+    "updatedAt": "2026-04-05T23:44:17.493Z"
+  },
+  {
+    "id": 3,
+    "title": "Minimalist Desk Lamp",
+    "price": 89.95,
+    "description": "Touch-dimmable LED desk lamp with 3 color modes and USB-C charging port.",
+    "category": "Home & Office",
+    "category_image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=400",
+    "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=800",
+    "createdAt": "2026-04-05T23:44:17.444Z",
+    "updatedAt": "2026-04-05T23:44:17.444Z"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "price": 299.99,
+    "description": "Premium over-ear headphones with 30-hour battery, adaptive ANC and rich bass.",
+    "category": "Electronics",
+    "category_image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "createdAt": "2026-04-05T23:44:17.408Z",
+    "updatedAt": "2026-04-05T23:44:17.408Z"
+  },
+  {
+    "id": 1,
+    "title": "Classic Leather Wallet",
+    "price": 49.99,
+    "description": "A slim, full-grain leather bifold wallet with RFID blocking and 6 card slots.",
+    "category": "Accessories",
+    "category_image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800",
+    "createdAt": "2026-04-05T23:44:17.100Z",
+    "updatedAt": "2026-04-05T23:44:17.100Z"
+  }
+]

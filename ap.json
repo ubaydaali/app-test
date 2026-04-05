@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "قميص كاجوال عصري",
+    "price": 29.99,
+    "description": "قميص قطني مريح عالي الجودة بتصميم عصري يناسب جميع المناسبات.",
+    "category": "men's clothing",
+    "image": "https://voca-land.sgp1.cdn.digitaloceanspaces.com/0/1757653354284/afc6dd51.jpg"
+  },
+  {
+    "id": 2,
+    "title": "سترة شتوية أنيقة",
+    "price": 85.50,
+    "description": "سترة ثقيلة توفر الدفء والأناقة في فصل الشتاء مع تصميم كلاسيكي.",
+    "category": "men's clothing",
+    "image": "https://media.burford.co.uk/images/SNY04089.jpg_edit.width-1440_05001m7uKQ0crRoI.jpg"
+  },
+  {
+    "id": 3,
+    "title": "تيشيرت رياضي خفيف",
+    "price": 19.00,
+    "description": "تيشيرت مثالي للتمارين الرياضية، سريع الجفاف وذو ملمس ناعم.",
+    "category": "men's clothing",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTilJ4bFUZyWueFfRz8hVJfa4-ifVDJn9IPBuU_XAZg5w&s"
+  }
+]

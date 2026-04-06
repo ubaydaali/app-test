@@ -1,83 +1,79 @@
 [
   {
-    "id": 1,
-    "title": "طقم رجالي عصري",
-    "price": 120.0,
-    "description": "طقم رجالي متكامل بتصميم تركي أنيق، مصنوع من خامات عالية الجودة تضمن الراحة والأناقة.",
-    "category": "ملابس رجالي",
-    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
-    "image": "https://static.modamixtr.com/image/cache/catalog/products/34761-1600x1600.jpg"
-  },
-  {
-    "id": 2,
-    "title": "جاكيت شتوي دافئ",
-    "price": 85.5,
-    "description": "جاكيت شتوي مبطن، مثالي للأجواء الباردة ويعطيك مظهراً جذاباً.",
-    "category": "ملابس رجالي",
-    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
-    "image": "https://scobastore.com/cdn/shop/articles/A_Comprehensive_Guide_to_Choosing_Winter_Clothes.jpg?v=1694948974"
-  },
-  {
-    "id": 3,
-    "title": "تيشيرت صيفي خفيف",
-    "price": 15.0,
-    "description": "تيشيرت قطني مريح للاستخدام اليومي.",
-    "category": "ملابس رجالي",
-    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
-    "image": "https://www.ikea.com/sa/ar/images/products/komplement-clothes-rail-white__1203424_pe906301_s5.jpg"
-  },
-  {
-    "id": 4,
-    "title": "قميص كاجوال",
-    "price": 25.0,
-    "description": "قميص مناسب لأوقات العمل والخروجات السريعة.",
-    "category": "ملابس رجالي",
-    "category_image": "https://v-genius.fatafeat.com/storage/attachments/20/Fatafeat-24sept-article2_756316.png/r/800/Fatafeat-24sept-article2_756316.png",
-    "image": "https://play-lh.googleusercontent.com/c0KYDKRdTOdHag0U0BLmgyjsSJYb_1HgLjDnBgajCJt6FdtstOy2prUwpU30KoAEtGNH=w240-h480-rw"
-  },
-  {
-    "id": 5,
-    "title": "فستان كلاسيكي",
-    "price": 150.0,
-    "description": "فستان نسائي بتصميم راقٍ ولمسات كلاسيكية، يبرز الأنوثة ويناسب جميع أوقاتك المميزة.",
-    "category": "ملابس نسائي",
-    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
-    "image": "https://www.bazaareon.com/i/l/000/0001137_-.jpeg"
+    "id": 7,
+    "title": "بطاطا مقلية ",
+    "price": 13,
+    "description": "اهلا وسهلا بكم جميعا",
+    "category": "ملابس اطفال",
+    "category_image": "https://alaunna.com/cdn/shop/articles/kyf-taatny-banak-altfl-otkhtary-mlabs-atfal-mnasb-lh-301848_1024x1024.jpg?v=1697116323",
+    "image": "https://alaunna.com/cdn/shop/articles/kyf-taatny-banak-altfl-otkhtary-mlabs-atfal-mnasb-lh-301848_1024x1024.jpg?v=1697116323",
+    "createdAt": "2026-04-05T23:57:54.171Z",
+    "updatedAt": "2026-04-05T23:57:54.171Z"
   },
   {
     "id": 6,
-    "title": "طقم صديق للبيئة",
-    "price": 95.0,
-    "description": "ملابس مصممة من مواد عضوية مريحة جداً للبشرة.",
-    "category": "ملابس نسائي",
-    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
-    "image": "https://www.ekolojik.com.tr/images/dogal-giysiler.jpg"
+    "title": "Mechanical Keyboard TKL",
+    "price": 149,
+    "description": "Tenkeyless mechanical keyboard with Cherry MX switches and RGB backlighting.",
+    "category": "Electronics",
+    "category_image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800",
+    "createdAt": "2026-04-05T23:44:17.565Z",
+    "updatedAt": "2026-04-05T23:44:17.565Z"
   },
   {
-    "id": 7,
-    "title": "بلوزة ربيعية أنيقة",
-    "price": 35.0,
-    "description": "بلوزة بألوان زاهية تناسب فصل الربيع.",
-    "category": "ملابس نسائي",
-    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
-    "image": "https://img.joomcdn.net/74568732469f4db8b2fa834d812121b00048aa76_original.jpeg"
+    "id": 5,
+    "title": "Stainless Steel Water Bottle",
+    "price": 34.99,
+    "description": "Triple-wall insulated 32 oz bottle keeps drinks cold 24 hrs, hot 12 hrs.",
+    "category": "Lifestyle",
+    "category_image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800",
+    "createdAt": "2026-04-05T23:44:17.529Z",
+    "updatedAt": "2026-04-05T23:44:17.529Z"
   },
   {
-    "id": 8,
-    "title": "فستان سهرة مميز",
-    "price": 200.0,
-    "description": "فستان سهرة يخطف الأنظار في المناسبات الكبرى.",
-    "category": "ملابس نسائي",
-    "category_image": "https://fakhamtaldar.com/wp-content/uploads/2024/05/rBVaqWFSrdOAeeRNAAKTRNal4ak354.webp",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaOu3_IrhZmgCUfBRYY_eEXOZBsLHeT8m0hA&s"
+    "id": 4,
+    "title": "Running Shoes Pro",
+    "price": 129,
+    "description": "Lightweight mesh running shoes with carbon-fibre plate and energy-return foam.",
+    "category": "Footwear",
+    "category_image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "createdAt": "2026-04-05T23:44:17.493Z",
+    "updatedAt": "2026-04-05T23:44:17.493Z"
   },
   {
-    "id": 9,
-    "title": "ترنج أطفال شتوي",
-    "price": 45.0,
-    "description": "ترنج شتوي ثقيل لحماية طفلك من البرد بألوان مبهجة.",
-    "category": "ملابس أطفال",
-    "category_image": "https://alaunna.com/cdn/shop/articles/tshkyl-mn-ahdth-modylat-trnjat-atfal-shtoy-2023-216634_1024x1024.jpg?v=1697116331",
-    "image": "https://alaunna.com/cdn/shop/articles/tshkyl-mn-ahdth-modylat-trnjat-atfal-shtoy-2023-216634_1024x1024.jpg?v=1697116331"
+    "id": 3,
+    "title": "Minimalist Desk Lamp",
+    "price": 89.95,
+    "description": "Touch-dimmable LED desk lamp with 3 color modes and USB-C charging port.",
+    "category": "Home & Office",
+    "category_image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=400",
+    "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=800",
+    "createdAt": "2026-04-05T23:44:17.444Z",
+    "updatedAt": "2026-04-05T23:44:17.444Z"
+  },
+  {
+    "id": 2,
+    "title": "Wireless Noise-Cancelling Headphones",
+    "price": 299.99,
+    "description": "Premium over-ear headphones with 30-hour battery, adaptive ANC and rich bass.",
+    "category": "Electronics",
+    "category_image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
+    "createdAt": "2026-04-05T23:44:17.408Z",
+    "updatedAt": "2026-04-05T23:44:17.408Z"
+  },
+  {
+    "id": 1,
+    "title": "Classic Leather Wallet",
+    "price": 49.99,
+    "description": "A slim, full-grain leather bifold wallet with RFID blocking and 6 card slots.",
+    "category": "Accessories",
+    "category_image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=400",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800",
+    "createdAt": "2026-04-05T23:44:17.100Z",
+    "updatedAt": "2026-04-05T23:44:17.100Z"
   }
 ]

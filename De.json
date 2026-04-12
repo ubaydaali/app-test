@@ -1,0 +1,3232 @@
+{
+  "categories": [
+    {
+      "id": "basics",
+      "title_ar": "الأساسيات",
+      "icon_code": "star",
+      "words": [
+        {
+          "de": "Hallo",
+          "ar": "مرحباً"
+        },
+        {
+          "de": "Danke",
+          "ar": "شكراً"
+        },
+        {
+          "de": "Bitte",
+          "ar": "لو سمحت"
+        },
+        {
+          "de": "Ja",
+          "ar": "نعم"
+        },
+        {
+          "de": "Nein",
+          "ar": "لا"
+        },
+        {
+          "de": "Guten Tag",
+          "ar": "يوم سعيد"
+        },
+        {
+          "de": "Auf Wiedersehen",
+          "ar": "مع السلامة"
+        },
+        {
+          "de": "Entschuldigung",
+          "ar": "عفواً"
+        },
+        {
+          "de": "Tschüss",
+          "ar": "باي"
+        },
+        {
+          "de": "Willkommen",
+          "ar": "أهلاً وسهلاً"
+        },
+        {
+          "de": "Gern geschehen",
+          "ar": "على الرحب والسعة"
+        },
+        {
+          "de": "Ich verstehe nicht",
+          "ar": "لا أفهم"
+        },
+        {
+          "de": "Ich weiß nicht",
+          "ar": "لا أعرف"
+        },
+        {
+          "de": "Natürlich",
+          "ar": "بالطبع"
+        },
+        {
+          "de": "Vielleicht",
+          "ar": "ربما"
+        },
+        {
+          "de": "Genau",
+          "ar": "بالضبط"
+        },
+        {
+          "de": "Stimmt",
+          "ar": "صحيح"
+        },
+        {
+          "de": "Kein Problem",
+          "ar": "لا مشكلة"
+        },
+        {
+          "de": "Es tut mir leid",
+          "ar": "أنا آسف"
+        },
+        {
+          "de": "Gut",
+          "ar": "جيد"
+        },
+        {
+          "de": "Schlecht",
+          "ar": "سيء"
+        },
+        {
+          "de": "Okay",
+          "ar": "حسناً"
+        },
+        {
+          "de": "Richtig",
+          "ar": "صحيح"
+        },
+        {
+          "de": "Falsch",
+          "ar": "خطأ"
+        },
+        {
+          "de": "Wirklich",
+          "ar": "حقاً"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title_ar": "الأرقام",
+      "icon_code": "looks_one",
+      "words": [
+        {
+          "de": "Eins",
+          "ar": "واحد"
+        },
+        {
+          "de": "Zwei",
+          "ar": "اثنان"
+        },
+        {
+          "de": "Drei",
+          "ar": "ثلاثة"
+        },
+        {
+          "de": "Vier",
+          "ar": "أربعة"
+        },
+        {
+          "de": "Fünf",
+          "ar": "خمسة"
+        },
+        {
+          "de": "Sechs",
+          "ar": "ستة"
+        },
+        {
+          "de": "Sieben",
+          "ar": "سبعة"
+        },
+        {
+          "de": "Acht",
+          "ar": "ثمانية"
+        },
+        {
+          "de": "Neun",
+          "ar": "تسعة"
+        },
+        {
+          "de": "Zehn",
+          "ar": "عشرة"
+        },
+        {
+          "de": "Elf",
+          "ar": "أحد عشر"
+        },
+        {
+          "de": "Zwölf",
+          "ar": "اثنا عشر"
+        },
+        {
+          "de": "Dreizehn",
+          "ar": "ثلاثة عشر"
+        },
+        {
+          "de": "Zwanzig",
+          "ar": "عشرون"
+        },
+        {
+          "de": "Dreißig",
+          "ar": "ثلاثون"
+        },
+        {
+          "de": "Fünfzig",
+          "ar": "خمسون"
+        },
+        {
+          "de": "Hundert",
+          "ar": "مئة"
+        },
+        {
+          "de": "Tausend",
+          "ar": "ألف"
+        },
+        {
+          "de": "Million",
+          "ar": "مليون"
+        },
+        {
+          "de": "Null",
+          "ar": "صفر"
+        },
+        {
+          "de": "Erste",
+          "ar": "الأول"
+        },
+        {
+          "de": "Zweite",
+          "ar": "الثاني"
+        },
+        {
+          "de": "Dritte",
+          "ar": "الثالث"
+        },
+        {
+          "de": "Hälfte",
+          "ar": "نصف"
+        },
+        {
+          "de": "Doppel",
+          "ar": "مزدوج"
+        }
+      ]
+    },
+    {
+      "id": "phrases",
+      "title_ar": "جمل شائعة",
+      "icon_code": "chat",
+      "words": [
+        {
+          "de": "Wie geht es dir?",
+          "ar": "كيف حالك؟"
+        },
+        {
+          "de": "Guten Morgen",
+          "ar": "صباح الخير"
+        },
+        {
+          "de": "Guten Abend",
+          "ar": "مساء الخير"
+        },
+        {
+          "de": "Gute Nacht",
+          "ar": "تصبح على خير"
+        },
+        {
+          "de": "Wie heißen Sie?",
+          "ar": "ما اسمك؟"
+        },
+        {
+          "de": "Ich heiße...",
+          "ar": "اسمي..."
+        },
+        {
+          "de": "Woher kommen Sie?",
+          "ar": "من أين أنت؟"
+        },
+        {
+          "de": "Ich komme aus...",
+          "ar": "أنا من..."
+        },
+        {
+          "de": "Was machen Sie?",
+          "ar": "ماذا تعمل؟"
+        },
+        {
+          "de": "Ich bin müde",
+          "ar": "أنا متعب"
+        },
+        {
+          "de": "Ich bin hungrig",
+          "ar": "أنا جائع"
+        },
+        {
+          "de": "Ich bin durstig",
+          "ar": "أنا عطشان"
+        },
+        {
+          "de": "Haben Sie einen Moment?",
+          "ar": "هل لديك لحظة؟"
+        },
+        {
+          "de": "Können Sie das wiederholen?",
+          "ar": "هل يمكنك التكرار؟"
+        },
+        {
+          "de": "Sprechen Sie Englisch?",
+          "ar": "هل تتكلم الإنجليزية؟"
+        },
+        {
+          "de": "Ich spreche ein bisschen Deutsch",
+          "ar": "أتحدث قليلاً الألمانية"
+        },
+        {
+          "de": "Was bedeutet das?",
+          "ar": "ماذا يعني هذا؟"
+        },
+        {
+          "de": "Wie buchstabiert man das?",
+          "ar": "كيف تُهجَّأ هذه؟"
+        },
+        {
+          "de": "Ich bin fertig",
+          "ar": "لقد انتهيت"
+        },
+        {
+          "de": "Lass uns gehen",
+          "ar": "هيا بنا"
+        },
+        {
+          "de": "Keine Ahnung",
+          "ar": "لا فكرة"
+        },
+        {
+          "de": "Das stimmt",
+          "ar": "هذا صحيح"
+        },
+        {
+          "de": "Einen schönen Tag noch",
+          "ar": "أتمنى لك يوماً سعيداً"
+        },
+        {
+          "de": "Bis bald",
+          "ar": "أراك قريباً"
+        },
+        {
+          "de": "Viel Erfolg",
+          "ar": "حظاً سعيداً"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "title_ar": "العائلة",
+      "icon_code": "family_restroom",
+      "words": [
+        {
+          "de": "Mutter",
+          "ar": "أم"
+        },
+        {
+          "de": "Vater",
+          "ar": "أب"
+        },
+        {
+          "de": "Bruder",
+          "ar": "أخ"
+        },
+        {
+          "de": "Schwester",
+          "ar": "أخت"
+        },
+        {
+          "de": "Großmutter",
+          "ar": "جدة"
+        },
+        {
+          "de": "Großvater",
+          "ar": "جد"
+        },
+        {
+          "de": "Kind",
+          "ar": "طفل"
+        },
+        {
+          "de": "Sohn",
+          "ar": "ابن"
+        },
+        {
+          "de": "Tochter",
+          "ar": "ابنة"
+        },
+        {
+          "de": "Ehemann",
+          "ar": "زوج"
+        },
+        {
+          "de": "Ehefrau",
+          "ar": "زوجة"
+        },
+        {
+          "de": "Onkel",
+          "ar": "عم / خال"
+        },
+        {
+          "de": "Tante",
+          "ar": "عمة / خالة"
+        },
+        {
+          "de": "Cousin",
+          "ar": "ابن العم"
+        },
+        {
+          "de": "Cousine",
+          "ar": "بنت العم"
+        },
+        {
+          "de": "Neffe",
+          "ar": "ابن الأخ"
+        },
+        {
+          "de": "Nichte",
+          "ar": "بنت الأخ"
+        },
+        {
+          "de": "Enkel",
+          "ar": "حفيد"
+        },
+        {
+          "de": "Enkelin",
+          "ar": "حفيدة"
+        },
+        {
+          "de": "Schwiegersohn",
+          "ar": "صهر"
+        },
+        {
+          "de": "Schwiegertochter",
+          "ar": "كنة"
+        },
+        {
+          "de": "Schwager",
+          "ar": "أخ الزوج / زوج الأخت"
+        },
+        {
+          "de": "Schwägerin",
+          "ar": "أخت الزوج / زوجة الأخ"
+        },
+        {
+          "de": "Zwilling",
+          "ar": "توأم"
+        },
+        {
+          "de": "Familie",
+          "ar": "عائلة"
+        }
+      ]
+    },
+    {
+      "id": "colors",
+      "title_ar": "الألوان",
+      "icon_code": "palette",
+      "words": [
+        {
+          "de": "Rot",
+          "ar": "أحمر"
+        },
+        {
+          "de": "Blau",
+          "ar": "أزرق"
+        },
+        {
+          "de": "Grün",
+          "ar": "أخضر"
+        },
+        {
+          "de": "Gelb",
+          "ar": "أصفر"
+        },
+        {
+          "de": "Schwarz",
+          "ar": "أسود"
+        },
+        {
+          "de": "Weiß",
+          "ar": "أبيض"
+        },
+        {
+          "de": "Orange",
+          "ar": "برتقالي"
+        },
+        {
+          "de": "Lila",
+          "ar": "بنفسجي"
+        },
+        {
+          "de": "Rosa",
+          "ar": "وردي"
+        },
+        {
+          "de": "Braun",
+          "ar": "بني"
+        },
+        {
+          "de": "Grau",
+          "ar": "رمادي"
+        },
+        {
+          "de": "Gold",
+          "ar": "ذهبي"
+        },
+        {
+          "de": "Silber",
+          "ar": "فضي"
+        },
+        {
+          "de": "Hellblau",
+          "ar": "فاتح أزرق"
+        },
+        {
+          "de": "Dunkelblau",
+          "ar": "داكن أزرق"
+        },
+        {
+          "de": "Türkis",
+          "ar": "فيروزي"
+        },
+        {
+          "de": "Beige",
+          "ar": "بيج"
+        },
+        {
+          "de": "Cremefarben",
+          "ar": "كريمي"
+        },
+        {
+          "de": "Kastanienbraun",
+          "ar": "بني كالكستناء"
+        },
+        {
+          "de": "Olivgrün",
+          "ar": "زيتوني"
+        },
+        {
+          "de": "Purpur",
+          "ar": "قرمزي"
+        },
+        {
+          "de": "Hellgrün",
+          "ar": "أخضر فاتح"
+        },
+        {
+          "de": "Dunkelgrün",
+          "ar": "أخضر داكن"
+        },
+        {
+          "de": "Regenbogen",
+          "ar": "قوس قزح"
+        },
+        {
+          "de": "Farbe",
+          "ar": "لون"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title_ar": "جسم الإنسان",
+      "icon_code": "accessibility_new",
+      "words": [
+        {
+          "de": "Kopf",
+          "ar": "رأس"
+        },
+        {
+          "de": "Auge",
+          "ar": "عين"
+        },
+        {
+          "de": "Nase",
+          "ar": "أنف"
+        },
+        {
+          "de": "Mund",
+          "ar": "فم"
+        },
+        {
+          "de": "Ohr",
+          "ar": "أذن"
+        },
+        {
+          "de": "Hand",
+          "ar": "يد"
+        },
+        {
+          "de": "Fuß",
+          "ar": "قدم"
+        },
+        {
+          "de": "Arm",
+          "ar": "ذراع"
+        },
+        {
+          "de": "Bein",
+          "ar": "ساق"
+        },
+        {
+          "de": "Finger",
+          "ar": "إصبع"
+        },
+        {
+          "de": "Zeh",
+          "ar": "إصبع القدم"
+        },
+        {
+          "de": "Bauch",
+          "ar": "بطن"
+        },
+        {
+          "de": "Rücken",
+          "ar": "ظهر"
+        },
+        {
+          "de": "Schulter",
+          "ar": "كتف"
+        },
+        {
+          "de": "Knie",
+          "ar": "ركبة"
+        },
+        {
+          "de": "Ellenbogen",
+          "ar": "مرفق"
+        },
+        {
+          "de": "Herz",
+          "ar": "قلب"
+        },
+        {
+          "de": "Gehirn",
+          "ar": "دماغ"
+        },
+        {
+          "de": "Zunge",
+          "ar": "لسان"
+        },
+        {
+          "de": "Zahn",
+          "ar": "سن"
+        },
+        {
+          "de": "Haar",
+          "ar": "شعر"
+        },
+        {
+          "de": "Haut",
+          "ar": "جلد"
+        },
+        {
+          "de": "Nagel",
+          "ar": "ظفر"
+        },
+        {
+          "de": "Hals",
+          "ar": "رقبة"
+        },
+        {
+          "de": "Brust",
+          "ar": "صدر"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "title_ar": "الطعام والشراب",
+      "icon_code": "restaurant",
+      "words": [
+        {
+          "de": "Brot",
+          "ar": "خبز"
+        },
+        {
+          "de": "Milch",
+          "ar": "حليب"
+        },
+        {
+          "de": "Wasser",
+          "ar": "ماء"
+        },
+        {
+          "de": "Kaffee",
+          "ar": "قهوة"
+        },
+        {
+          "de": "Tee",
+          "ar": "شاي"
+        },
+        {
+          "de": "Reis",
+          "ar": "أرز"
+        },
+        {
+          "de": "Fleisch",
+          "ar": "لحم"
+        },
+        {
+          "de": "Hähnchen",
+          "ar": "دجاج"
+        },
+        {
+          "de": "Fisch",
+          "ar": "سمك"
+        },
+        {
+          "de": "Ei",
+          "ar": "بيضة"
+        },
+        {
+          "de": "Käse",
+          "ar": "جبن"
+        },
+        {
+          "de": "Butter",
+          "ar": "زبدة"
+        },
+        {
+          "de": "Zucker",
+          "ar": "سكر"
+        },
+        {
+          "de": "Salz",
+          "ar": "ملح"
+        },
+        {
+          "de": "Pfeffer",
+          "ar": "فلفل"
+        },
+        {
+          "de": "Obst",
+          "ar": "فاكهة"
+        },
+        {
+          "de": "Gemüse",
+          "ar": "خضار"
+        },
+        {
+          "de": "Apfel",
+          "ar": "تفاحة"
+        },
+        {
+          "de": "Banane",
+          "ar": "موزة"
+        },
+        {
+          "de": "Orange",
+          "ar": "برتقالة"
+        },
+        {
+          "de": "Tomate",
+          "ar": "طماطم"
+        },
+        {
+          "de": "Kartoffel",
+          "ar": "بطاطا"
+        },
+        {
+          "de": "Zwiebel",
+          "ar": "بصل"
+        },
+        {
+          "de": "Knoblauch",
+          "ar": "ثوم"
+        },
+        {
+          "de": "Karotte",
+          "ar": "جزرة"
+        },
+        {
+          "de": "Gurke",
+          "ar": "خيار"
+        },
+        {
+          "de": "Salat",
+          "ar": "سلطة"
+        },
+        {
+          "de": "Suppe",
+          "ar": "شوربة"
+        },
+        {
+          "de": "Pizza",
+          "ar": "بيتزا"
+        },
+        {
+          "de": "Nudeln",
+          "ar": "معكرونة"
+        },
+        {
+          "de": "Honig",
+          "ar": "عسل"
+        },
+        {
+          "de": "Marmelade",
+          "ar": "مربى"
+        },
+        {
+          "de": "Saft",
+          "ar": "عصير"
+        },
+        {
+          "de": "Bier",
+          "ar": "بيرة"
+        },
+        {
+          "de": "Wein",
+          "ar": "نبيذ"
+        },
+        {
+          "de": "Schokolade",
+          "ar": "شوكولاتة"
+        },
+        {
+          "de": "Kuchen",
+          "ar": "كعكة"
+        },
+        {
+          "de": "Eis",
+          "ar": "آيس كريم"
+        },
+        {
+          "de": "Frühstück",
+          "ar": "فطور"
+        },
+        {
+          "de": "Mittagessen",
+          "ar": "غداء"
+        },
+        {
+          "de": "Abendessen",
+          "ar": "عشاء"
+        },
+        {
+          "de": "Hunger",
+          "ar": "جوع"
+        },
+        {
+          "de": "Durst",
+          "ar": "عطش"
+        },
+        {
+          "de": "Löffel",
+          "ar": "ملعقة"
+        },
+        {
+          "de": "Gabel",
+          "ar": "شوكة"
+        },
+        {
+          "de": "Messer",
+          "ar": "سكين"
+        },
+        {
+          "de": "Teller",
+          "ar": "طبق"
+        },
+        {
+          "de": "Tasse",
+          "ar": "كوب"
+        },
+        {
+          "de": "Glas",
+          "ar": "كأس"
+        },
+        {
+          "de": "Schüssel",
+          "ar": "إناء"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title_ar": "الحيوانات",
+      "icon_code": "pets",
+      "words": [
+        {
+          "de": "Hund",
+          "ar": "كلب"
+        },
+        {
+          "de": "Katze",
+          "ar": "قطة"
+        },
+        {
+          "de": "Vogel",
+          "ar": "طائر"
+        },
+        {
+          "de": "Fisch",
+          "ar": "سمكة"
+        },
+        {
+          "de": "Pferd",
+          "ar": "حصان"
+        },
+        {
+          "de": "Kuh",
+          "ar": "بقرة"
+        },
+        {
+          "de": "Schaf",
+          "ar": "خروف"
+        },
+        {
+          "de": "Ziege",
+          "ar": "ماعز"
+        },
+        {
+          "de": "Schwein",
+          "ar": "خنزير"
+        },
+        {
+          "de": "Huhn",
+          "ar": "دجاجة"
+        },
+        {
+          "de": "Ente",
+          "ar": "بطة"
+        },
+        {
+          "de": "Gans",
+          "ar": "إوزة"
+        },
+        {
+          "de": "Kaninchen",
+          "ar": "أرنب"
+        },
+        {
+          "de": "Maus",
+          "ar": "فأر"
+        },
+        {
+          "de": "Elefant",
+          "ar": "فيل"
+        },
+        {
+          "de": "Löwe",
+          "ar": "أسد"
+        },
+        {
+          "de": "Tiger",
+          "ar": "نمر"
+        },
+        {
+          "de": "Bär",
+          "ar": "دب"
+        },
+        {
+          "de": "Affe",
+          "ar": "قرد"
+        },
+        {
+          "de": "Schlange",
+          "ar": "ثعبان"
+        },
+        {
+          "de": "Schildkröte",
+          "ar": "سلحفاة"
+        },
+        {
+          "de": "Frosch",
+          "ar": "ضفدع"
+        },
+        {
+          "de": "Schmetterling",
+          "ar": "فراشة"
+        },
+        {
+          "de": "Biene",
+          "ar": "نحلة"
+        },
+        {
+          "de": "Ameise",
+          "ar": "نملة"
+        },
+        {
+          "de": "Spinne",
+          "ar": "عنكبوت"
+        },
+        {
+          "de": "Wolf",
+          "ar": "ذئب"
+        },
+        {
+          "de": "Fuchs",
+          "ar": "ثعلب"
+        },
+        {
+          "de": "Hirsch",
+          "ar": "غزال"
+        },
+        {
+          "de": "Adler",
+          "ar": "نسر"
+        },
+        {
+          "de": "Papagei",
+          "ar": "ببغاء"
+        },
+        {
+          "de": "Pinguin",
+          "ar": "بطريق"
+        },
+        {
+          "de": "Delfin",
+          "ar": "دولفين"
+        },
+        {
+          "de": "Wal",
+          "ar": "حوت"
+        },
+        {
+          "de": "Krokodil",
+          "ar": "تمساح"
+        },
+        {
+          "de": "Giraffe",
+          "ar": "زرافة"
+        },
+        {
+          "de": "Nashorn",
+          "ar": "وحيد القرن"
+        },
+        {
+          "de": "Kamel",
+          "ar": "جمل"
+        },
+        {
+          "de": "Esel",
+          "ar": "حمار"
+        },
+        {
+          "de": "Hai",
+          "ar": "قرش"
+        }
+      ]
+    },
+    {
+      "id": "clothing",
+      "title_ar": "الملابس",
+      "icon_code": "checkroom",
+      "words": [
+        {
+          "de": "Hemd",
+          "ar": "قميص"
+        },
+        {
+          "de": "Hose",
+          "ar": "بنطلون"
+        },
+        {
+          "de": "Kleid",
+          "ar": "فستان"
+        },
+        {
+          "de": "Rock",
+          "ar": "تنورة"
+        },
+        {
+          "de": "Jacke",
+          "ar": "سترة"
+        },
+        {
+          "de": "Mantel",
+          "ar": "معطف"
+        },
+        {
+          "de": "Pullover",
+          "ar": "كنزة"
+        },
+        {
+          "de": "T-Shirt",
+          "ar": "تي شيرت"
+        },
+        {
+          "de": "Schuh",
+          "ar": "حذاء"
+        },
+        {
+          "de": "Socke",
+          "ar": "جورب"
+        },
+        {
+          "de": "Hut",
+          "ar": "قبعة"
+        },
+        {
+          "de": "Mütze",
+          "ar": "طاقية"
+        },
+        {
+          "de": "Schal",
+          "ar": "وشاح"
+        },
+        {
+          "de": "Handschuh",
+          "ar": "قفاز"
+        },
+        {
+          "de": "Krawatte",
+          "ar": "ربطة عنق"
+        },
+        {
+          "de": "Anzug",
+          "ar": "بدلة"
+        },
+        {
+          "de": "BH",
+          "ar": "حمالة صدر"
+        },
+        {
+          "de": "Unterwäsche",
+          "ar": "ملابس داخلية"
+        },
+        {
+          "de": "Schlafanzug",
+          "ar": "بيجامة"
+        },
+        {
+          "de": "Badeanzug",
+          "ar": "ملابس سباحة"
+        },
+        {
+          "de": "Gürtel",
+          "ar": "حزام"
+        },
+        {
+          "de": "Brille",
+          "ar": "نظارة"
+        },
+        {
+          "de": "Uhr",
+          "ar": "ساعة"
+        },
+        {
+          "de": "Ring",
+          "ar": "خاتم"
+        },
+        {
+          "de": "Kette",
+          "ar": "سلسلة"
+        },
+        {
+          "de": "Ohrring",
+          "ar": "قرط"
+        },
+        {
+          "de": "Rucksack",
+          "ar": "حقيبة ظهر"
+        },
+        {
+          "de": "Handtasche",
+          "ar": "حقيبة يد"
+        },
+        {
+          "de": "Regenschirm",
+          "ar": "مظلة"
+        },
+        {
+          "de": "Knopf",
+          "ar": "زر"
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "title_ar": "الطقس",
+      "icon_code": "wb_sunny",
+      "words": [
+        {
+          "de": "Sonne",
+          "ar": "شمس"
+        },
+        {
+          "de": "Regen",
+          "ar": "مطر"
+        },
+        {
+          "de": "Schnee",
+          "ar": "ثلج"
+        },
+        {
+          "de": "Wind",
+          "ar": "رياح"
+        },
+        {
+          "de": "Wolke",
+          "ar": "سحابة"
+        },
+        {
+          "de": "Sturm",
+          "ar": "عاصفة"
+        },
+        {
+          "de": "Nebel",
+          "ar": "ضباب"
+        },
+        {
+          "de": "Gewitter",
+          "ar": "عاصفة رعدية"
+        },
+        {
+          "de": "Blitz",
+          "ar": "برق"
+        },
+        {
+          "de": "Donner",
+          "ar": "رعد"
+        },
+        {
+          "de": "Temperatur",
+          "ar": "حرارة"
+        },
+        {
+          "de": "Grad",
+          "ar": "درجة"
+        },
+        {
+          "de": "Kalt",
+          "ar": "بارد"
+        },
+        {
+          "de": "Warm",
+          "ar": "دافئ"
+        },
+        {
+          "de": "Heiß",
+          "ar": "حار"
+        },
+        {
+          "de": "Kühl",
+          "ar": "معتدل البرودة"
+        },
+        {
+          "de": "Feucht",
+          "ar": "رطب"
+        },
+        {
+          "de": "Trocken",
+          "ar": "جاف"
+        },
+        {
+          "de": "Regenbogen",
+          "ar": "قوس قزح"
+        },
+        {
+          "de": "Hagel",
+          "ar": "برد"
+        },
+        {
+          "de": "Reif",
+          "ar": "صقيع"
+        },
+        {
+          "de": "Himmel",
+          "ar": "سماء"
+        },
+        {
+          "de": "Wetter",
+          "ar": "طقس"
+        },
+        {
+          "de": "Jahreszeit",
+          "ar": "فصل"
+        },
+        {
+          "de": "Frühling",
+          "ar": "ربيع"
+        },
+        {
+          "de": "Sommer",
+          "ar": "صيف"
+        },
+        {
+          "de": "Herbst",
+          "ar": "خريف"
+        },
+        {
+          "de": "Winter",
+          "ar": "شتاء"
+        },
+        {
+          "de": "Sonnenaufgang",
+          "ar": "شروق الشمس"
+        },
+        {
+          "de": "Sonnenuntergang",
+          "ar": "غروب الشمس"
+        }
+      ]
+    },
+    {
+      "id": "house",
+      "title_ar": "المنزل",
+      "icon_code": "home",
+      "words": [
+        {
+          "de": "Haus",
+          "ar": "بيت"
+        },
+        {
+          "de": "Zimmer",
+          "ar": "غرفة"
+        },
+        {
+          "de": "Schlafzimmer",
+          "ar": "غرفة نوم"
+        },
+        {
+          "de": "Badezimmer",
+          "ar": "حمام"
+        },
+        {
+          "de": "Küche",
+          "ar": "مطبخ"
+        },
+        {
+          "de": "Wohnzimmer",
+          "ar": "غرفة معيشة"
+        },
+        {
+          "de": "Garten",
+          "ar": "حديقة"
+        },
+        {
+          "de": "Tür",
+          "ar": "باب"
+        },
+        {
+          "de": "Fenster",
+          "ar": "نافذة"
+        },
+        {
+          "de": "Wand",
+          "ar": "جدار"
+        },
+        {
+          "de": "Dach",
+          "ar": "سقف"
+        },
+        {
+          "de": "Boden",
+          "ar": "أرضية"
+        },
+        {
+          "de": "Treppe",
+          "ar": "درج"
+        },
+        {
+          "de": "Keller",
+          "ar": "قبو"
+        },
+        {
+          "de": "Garage",
+          "ar": "مرآب"
+        },
+        {
+          "de": "Balkon",
+          "ar": "شرفة"
+        },
+        {
+          "de": "Tisch",
+          "ar": "طاولة"
+        },
+        {
+          "de": "Stuhl",
+          "ar": "كرسي"
+        },
+        {
+          "de": "Bett",
+          "ar": "سرير"
+        },
+        {
+          "de": "Schrank",
+          "ar": "خزانة"
+        },
+        {
+          "de": "Sofa",
+          "ar": "أريكة"
+        },
+        {
+          "de": "Lampe",
+          "ar": "مصباح"
+        },
+        {
+          "de": "Spiegel",
+          "ar": "مرآة"
+        },
+        {
+          "de": "Teppich",
+          "ar": "سجادة"
+        },
+        {
+          "de": "Vorhang",
+          "ar": "ستارة"
+        },
+        {
+          "de": "Kissen",
+          "ar": "وسادة"
+        },
+        {
+          "de": "Decke",
+          "ar": "بطانية"
+        },
+        {
+          "de": "Ofen",
+          "ar": "فرن"
+        },
+        {
+          "de": "Kühlschrank",
+          "ar": "ثلاجة"
+        },
+        {
+          "de": "Waschmaschine",
+          "ar": "غسالة"
+        },
+        {
+          "de": "Fernseher",
+          "ar": "تلفاز"
+        },
+        {
+          "de": "Computer",
+          "ar": "حاسوب"
+        },
+        {
+          "de": "Telefon",
+          "ar": "هاتف"
+        },
+        {
+          "de": "Schlüssel",
+          "ar": "مفتاح"
+        },
+        {
+          "de": "Mülleimer",
+          "ar": "سلة مهملات"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "title_ar": "الوقت",
+      "icon_code": "schedule",
+      "words": [
+        {
+          "de": "Zeit",
+          "ar": "وقت"
+        },
+        {
+          "de": "Stunde",
+          "ar": "ساعة"
+        },
+        {
+          "de": "Minute",
+          "ar": "دقيقة"
+        },
+        {
+          "de": "Sekunde",
+          "ar": "ثانية"
+        },
+        {
+          "de": "Tag",
+          "ar": "يوم"
+        },
+        {
+          "de": "Woche",
+          "ar": "أسبوع"
+        },
+        {
+          "de": "Monat",
+          "ar": "شهر"
+        },
+        {
+          "de": "Jahr",
+          "ar": "سنة"
+        },
+        {
+          "de": "Montag",
+          "ar": "الاثنين"
+        },
+        {
+          "de": "Dienstag",
+          "ar": "الثلاثاء"
+        },
+        {
+          "de": "Mittwoch",
+          "ar": "الأربعاء"
+        },
+        {
+          "de": "Donnerstag",
+          "ar": "الخميس"
+        },
+        {
+          "de": "Freitag",
+          "ar": "الجمعة"
+        },
+        {
+          "de": "Samstag",
+          "ar": "السبت"
+        },
+        {
+          "de": "Sonntag",
+          "ar": "الأحد"
+        },
+        {
+          "de": "Morgen",
+          "ar": "غداً"
+        },
+        {
+          "de": "Heute",
+          "ar": "اليوم"
+        },
+        {
+          "de": "Gestern",
+          "ar": "أمس"
+        },
+        {
+          "de": "Jetzt",
+          "ar": "الآن"
+        },
+        {
+          "de": "Später",
+          "ar": "لاحقاً"
+        },
+        {
+          "de": "Früher",
+          "ar": "سابقاً"
+        },
+        {
+          "de": "Immer",
+          "ar": "دائماً"
+        },
+        {
+          "de": "Nie",
+          "ar": "أبداً"
+        },
+        {
+          "de": "Oft",
+          "ar": "غالباً"
+        },
+        {
+          "de": "Manchmal",
+          "ar": "أحياناً"
+        },
+        {
+          "de": "Schnell",
+          "ar": "سريع"
+        },
+        {
+          "de": "Langsam",
+          "ar": "بطيء"
+        },
+        {
+          "de": "Mitternacht",
+          "ar": "منتصف الليل"
+        },
+        {
+          "de": "Mittag",
+          "ar": "ظهيرة"
+        },
+        {
+          "de": "Kalender",
+          "ar": "تقويم"
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title_ar": "المواصلات",
+      "icon_code": "directions_car",
+      "words": [
+        {
+          "de": "Auto",
+          "ar": "سيارة"
+        },
+        {
+          "de": "Bus",
+          "ar": "حافلة"
+        },
+        {
+          "de": "Zug",
+          "ar": "قطار"
+        },
+        {
+          "de": "Flugzeug",
+          "ar": "طائرة"
+        },
+        {
+          "de": "Fahrrad",
+          "ar": "دراجة هوائية"
+        },
+        {
+          "de": "Motorrad",
+          "ar": "دراجة نارية"
+        },
+        {
+          "de": "Schiff",
+          "ar": "سفينة"
+        },
+        {
+          "de": "Taxi",
+          "ar": "سيارة أجرة"
+        },
+        {
+          "de": "Straßenbahn",
+          "ar": "ترام"
+        },
+        {
+          "de": "U-Bahn",
+          "ar": "مترو الأنفاق"
+        },
+        {
+          "de": "Straße",
+          "ar": "شارع"
+        },
+        {
+          "de": "Brücke",
+          "ar": "جسر"
+        },
+        {
+          "de": "Bahnhof",
+          "ar": "محطة قطار"
+        },
+        {
+          "de": "Flughafen",
+          "ar": "مطار"
+        },
+        {
+          "de": "Hafen",
+          "ar": "ميناء"
+        },
+        {
+          "de": "Tankstelle",
+          "ar": "محطة وقود"
+        },
+        {
+          "de": "Parkplatz",
+          "ar": "موقف سيارات"
+        },
+        {
+          "de": "Fahrer",
+          "ar": "سائق"
+        },
+        {
+          "de": "Fahrkarte",
+          "ar": "تذكرة"
+        },
+        {
+          "de": "Geschwindigkeit",
+          "ar": "سرعة"
+        },
+        {
+          "de": "Verkehr",
+          "ar": "مرور"
+        },
+        {
+          "de": "Ampel",
+          "ar": "إشارة مرور"
+        },
+        {
+          "de": "Kreuzung",
+          "ar": "تقاطع"
+        },
+        {
+          "de": "Autobahn",
+          "ar": "طريق سريع"
+        },
+        {
+          "de": "Rad",
+          "ar": "عجلة"
+        },
+        {
+          "de": "Motor",
+          "ar": "محرك"
+        },
+        {
+          "de": "Benzin",
+          "ar": "بنزين"
+        },
+        {
+          "de": "Reise",
+          "ar": "رحلة"
+        },
+        {
+          "de": "Karte",
+          "ar": "خريطة"
+        },
+        {
+          "de": "Navigation",
+          "ar": "ملاحة"
+        }
+      ]
+    },
+    {
+      "id": "professions",
+      "title_ar": "المهن",
+      "icon_code": "work",
+      "words": [
+        {
+          "de": "Arzt",
+          "ar": "طبيب"
+        },
+        {
+          "de": "Lehrer",
+          "ar": "معلم"
+        },
+        {
+          "de": "Ingenieur",
+          "ar": "مهندس"
+        },
+        {
+          "de": "Anwalt",
+          "ar": "محامٍ"
+        },
+        {
+          "de": "Krankenschwester",
+          "ar": "ممرضة"
+        },
+        {
+          "de": "Polizist",
+          "ar": "شرطي"
+        },
+        {
+          "de": "Feuerwehrmann",
+          "ar": "رجل إطفاء"
+        },
+        {
+          "de": "Bäcker",
+          "ar": "خباز"
+        },
+        {
+          "de": "Koch",
+          "ar": "طباخ"
+        },
+        {
+          "de": "Kellner",
+          "ar": "نادل"
+        },
+        {
+          "de": "Verkäufer",
+          "ar": "بائع"
+        },
+        {
+          "de": "Fahrer",
+          "ar": "سائق"
+        },
+        {
+          "de": "Schauspieler",
+          "ar": "ممثل"
+        },
+        {
+          "de": "Sänger",
+          "ar": "مغني"
+        },
+        {
+          "de": "Künstler",
+          "ar": "فنان"
+        },
+        {
+          "de": "Schriftsteller",
+          "ar": "كاتب"
+        },
+        {
+          "de": "Journalist",
+          "ar": "صحفي"
+        },
+        {
+          "de": "Architekt",
+          "ar": "مهندس معماري"
+        },
+        {
+          "de": "Zahnarzt",
+          "ar": "طبيب أسنان"
+        },
+        {
+          "de": "Tierarzt",
+          "ar": "طبيب بيطري"
+        },
+        {
+          "de": "Richter",
+          "ar": "قاضٍ"
+        },
+        {
+          "de": "Pilot",
+          "ar": "طيار"
+        },
+        {
+          "de": "Soldat",
+          "ar": "جندي"
+        },
+        {
+          "de": "Wissenschaftler",
+          "ar": "عالم"
+        },
+        {
+          "de": "Programmierer",
+          "ar": "مبرمج"
+        },
+        {
+          "de": "Elektriker",
+          "ar": "كهربائي"
+        },
+        {
+          "de": "Klempner",
+          "ar": "سمكري"
+        },
+        {
+          "de": "Friseur",
+          "ar": "حلاق"
+        },
+        {
+          "de": "Fotograf",
+          "ar": "مصور"
+        },
+        {
+          "de": "Musiker",
+          "ar": "موسيقي"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "title_ar": "الطبيعة",
+      "icon_code": "park",
+      "words": [
+        {
+          "de": "Baum",
+          "ar": "شجرة"
+        },
+        {
+          "de": "Blume",
+          "ar": "زهرة"
+        },
+        {
+          "de": "Gras",
+          "ar": "عشب"
+        },
+        {
+          "de": "Wald",
+          "ar": "غابة"
+        },
+        {
+          "de": "Berg",
+          "ar": "جبل"
+        },
+        {
+          "de": "Fluss",
+          "ar": "نهر"
+        },
+        {
+          "de": "See",
+          "ar": "بحيرة"
+        },
+        {
+          "de": "Meer",
+          "ar": "بحر"
+        },
+        {
+          "de": "Ozean",
+          "ar": "محيط"
+        },
+        {
+          "de": "Strand",
+          "ar": "شاطئ"
+        },
+        {
+          "de": "Wüste",
+          "ar": "صحراء"
+        },
+        {
+          "de": "Insel",
+          "ar": "جزيرة"
+        },
+        {
+          "de": "Tal",
+          "ar": "وادي"
+        },
+        {
+          "de": "Hügel",
+          "ar": "تل"
+        },
+        {
+          "de": "Fels",
+          "ar": "صخرة"
+        },
+        {
+          "de": "Sand",
+          "ar": "رمل"
+        },
+        {
+          "de": "Erde",
+          "ar": "أرض"
+        },
+        {
+          "de": "Stein",
+          "ar": "حجر"
+        },
+        {
+          "de": "Blatt",
+          "ar": "ورقة شجر"
+        },
+        {
+          "de": "Wurzel",
+          "ar": "جذر"
+        },
+        {
+          "de": "Ast",
+          "ar": "غصن"
+        },
+        {
+          "de": "Samen",
+          "ar": "بذرة"
+        },
+        {
+          "de": "Pilz",
+          "ar": "فطر"
+        },
+        {
+          "de": "Mond",
+          "ar": "قمر"
+        },
+        {
+          "de": "Stern",
+          "ar": "نجمة"
+        },
+        {
+          "de": "Planet",
+          "ar": "كوكب"
+        },
+        {
+          "de": "Weltall",
+          "ar": "فضاء"
+        },
+        {
+          "de": "Natur",
+          "ar": "طبيعة"
+        },
+        {
+          "de": "Landschaft",
+          "ar": "منظر طبيعي"
+        },
+        {
+          "de": "Quelle",
+          "ar": "ينبوع"
+        }
+      ]
+    },
+    {
+      "id": "emotions",
+      "title_ar": "المشاعر",
+      "icon_code": "sentiment_satisfied",
+      "words": [
+        {
+          "de": "Glücklich",
+          "ar": "سعيد"
+        },
+        {
+          "de": "Traurig",
+          "ar": "حزين"
+        },
+        {
+          "de": "Wütend",
+          "ar": "غاضب"
+        },
+        {
+          "de": "Ängstlich",
+          "ar": "خائف"
+        },
+        {
+          "de": "Überrascht",
+          "ar": "مفاجئ"
+        },
+        {
+          "de": "Müde",
+          "ar": "متعب"
+        },
+        {
+          "de": "Nervös",
+          "ar": "متوتر"
+        },
+        {
+          "de": "Enttäuscht",
+          "ar": "محبط"
+        },
+        {
+          "de": "Stolz",
+          "ar": "فخور"
+        },
+        {
+          "de": "Eifersüchtig",
+          "ar": "غيور"
+        },
+        {
+          "de": "Einsam",
+          "ar": "وحيد"
+        },
+        {
+          "de": "Verliebt",
+          "ar": "عاشق"
+        },
+        {
+          "de": "Dankbar",
+          "ar": "ممتن"
+        },
+        {
+          "de": "Hoffnungsvoll",
+          "ar": "متفائل"
+        },
+        {
+          "de": "Verzweifelt",
+          "ar": "يائس"
+        },
+        {
+          "de": "Ruhig",
+          "ar": "هادئ"
+        },
+        {
+          "de": "Aufgeregt",
+          "ar": "متحمس"
+        },
+        {
+          "de": "Gelangweilt",
+          "ar": "ملل"
+        },
+        {
+          "de": "Schuldig",
+          "ar": "مذنب"
+        },
+        {
+          "de": "Schüchtern",
+          "ar": "خجول"
+        },
+        {
+          "de": "Mutig",
+          "ar": "شجاع"
+        },
+        {
+          "de": "Froh",
+          "ar": "مسرور"
+        },
+        {
+          "de": "Besorgt",
+          "ar": "قلق"
+        },
+        {
+          "de": "Erschöpft",
+          "ar": " منهك"
+        },
+        {
+          "de": "Gelassen",
+          "ar": "مطمئن"
+        },
+        {
+          "de": "Gefühl",
+          "ar": "شعور"
+        },
+        {
+          "de": "Liebe",
+          "ar": "حب"
+        },
+        {
+          "de": "Hass",
+          "ar": "كره"
+        },
+        {
+          "de": "Freude",
+          "ar": "فرح"
+        },
+        {
+          "de": "Trauer",
+          "ar": "حزن"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "title_ar": "التعليم",
+      "icon_code": "school",
+      "words": [
+        {
+          "de": "Schule",
+          "ar": "مدرسة"
+        },
+        {
+          "de": "Universität",
+          "ar": "جامعة"
+        },
+        {
+          "de": "Buch",
+          "ar": "كتاب"
+        },
+        {
+          "de": "Heft",
+          "ar": "دفتر"
+        },
+        {
+          "de": "Stift",
+          "ar": "قلم"
+        },
+        {
+          "de": "Bleistift",
+          "ar": "قلم رصاص"
+        },
+        {
+          "de": "Tafel",
+          "ar": "سبورة"
+        },
+        {
+          "de": "Tasche",
+          "ar": "حقيبة"
+        },
+        {
+          "de": "Schüler",
+          "ar": "طالب"
+        },
+        {
+          "de": "Student",
+          "ar": "طالب جامعي"
+        },
+        {
+          "de": "Aufgabe",
+          "ar": "واجب"
+        },
+        {
+          "de": "Prüfung",
+          "ar": "امتحان"
+        },
+        {
+          "de": "Note",
+          "ar": "درجة / علامة"
+        },
+        {
+          "de": "Klasse",
+          "ar": "فصل دراسي"
+        },
+        {
+          "de": "Unterricht",
+          "ar": "درس"
+        },
+        {
+          "de": "Hausaufgabe",
+          "ar": "واجب منزلي"
+        },
+        {
+          "de": "Bibliothek",
+          "ar": "مكتبة"
+        },
+        {
+          "de": "Wörterbuch",
+          "ar": "قاموس"
+        },
+        {
+          "de": "Sprache",
+          "ar": "لغة"
+        },
+        {
+          "de": "Mathematik",
+          "ar": "رياضيات"
+        },
+        {
+          "de": "Wissenschaft",
+          "ar": "علوم"
+        },
+        {
+          "de": "Geschichte",
+          "ar": "تاريخ"
+        },
+        {
+          "de": "Geografie",
+          "ar": "جغرافيا"
+        },
+        {
+          "de": "Kunst",
+          "ar": "فن"
+        },
+        {
+          "de": "Musik",
+          "ar": "موسيقى"
+        },
+        {
+          "de": "Sport",
+          "ar": "رياضة"
+        },
+        {
+          "de": "Lernen",
+          "ar": "تعلم"
+        },
+        {
+          "de": "Lehren",
+          "ar": "تعليم"
+        },
+        {
+          "de": "Wissen",
+          "ar": "معرفة"
+        },
+        {
+          "de": "Abschluss",
+          "ar": "شهادة"
+        }
+      ]
+    },
+    {
+      "id": "city",
+      "title_ar": "المدينة",
+      "icon_code": "location_city",
+      "words": [
+        {
+          "de": "Stadt",
+          "ar": "مدينة"
+        },
+        {
+          "de": "Dorf",
+          "ar": "قرية"
+        },
+        {
+          "de": "Platz",
+          "ar": "ساحة"
+        },
+        {
+          "de": "Kirche",
+          "ar": "كنيسة"
+        },
+        {
+          "de": "Moschee",
+          "ar": "مسجد"
+        },
+        {
+          "de": "Krankenhaus",
+          "ar": "مستشفى"
+        },
+        {
+          "de": "Apotheke",
+          "ar": "صيدلية"
+        },
+        {
+          "de": "Bank",
+          "ar": "بنك"
+        },
+        {
+          "de": "Post",
+          "ar": "بريد"
+        },
+        {
+          "de": "Supermarkt",
+          "ar": "سوبرماركت"
+        },
+        {
+          "de": "Restaurant",
+          "ar": "مطعم"
+        },
+        {
+          "de": "Hotel",
+          "ar": "فندق"
+        },
+        {
+          "de": "Kino",
+          "ar": "سينما"
+        },
+        {
+          "de": "Theater",
+          "ar": "مسرح"
+        },
+        {
+          "de": "Museum",
+          "ar": "متحف"
+        },
+        {
+          "de": "Park",
+          "ar": "حديقة"
+        },
+        {
+          "de": "Bibliothek",
+          "ar": "مكتبة"
+        },
+        {
+          "de": "Markt",
+          "ar": "سوق"
+        },
+        {
+          "de": "Brücke",
+          "ar": "جسر"
+        },
+        {
+          "de": "Denkmal",
+          "ar": "نصب تذكاري"
+        },
+        {
+          "de": "Bürgersteig",
+          "ar": "رصيف"
+        },
+        {
+          "de": "Laterne",
+          "ar": "عمود إنارة"
+        },
+        {
+          "de": "Gebäude",
+          "ar": "مبنى"
+        },
+        {
+          "de": "Turm",
+          "ar": "برج"
+        },
+        {
+          "de": "Brunnen",
+          "ar": "نافورة"
+        },
+        {
+          "de": "Friedhof",
+          "ar": "مقبرة"
+        },
+        {
+          "de": "Polizei",
+          "ar": "شرطة"
+        },
+        {
+          "de": "Feuerwehr",
+          "ar": "إطفاء"
+        },
+        {
+          "de": "Rathaus",
+          "ar": "مبنى البلدية"
+        },
+        {
+          "de": "Einkaufszentrum",
+          "ar": "مركز تسوق"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title_ar": "الرياضة",
+      "icon_code": "sports_soccer",
+      "words": [
+        {
+          "de": "Fußball",
+          "ar": "كرة قدم"
+        },
+        {
+          "de": "Basketball",
+          "ar": "كرة سلة"
+        },
+        {
+          "de": "Tennis",
+          "ar": "تنس"
+        },
+        {
+          "de": "Schwimmen",
+          "ar": "سباحة"
+        },
+        {
+          "de": "Laufen",
+          "ar": "جري"
+        },
+        {
+          "de": "Radfahren",
+          "ar": "ركوب دراجة"
+        },
+        {
+          "de": "Skifahren",
+          "ar": "تزلج"
+        },
+        {
+          "de": "Boxen",
+          "ar": "ملاكمة"
+        },
+        {
+          "de": "Volleyball",
+          "ar": "كرة طائرة"
+        },
+        {
+          "de": "Golf",
+          "ar": "غولف"
+        },
+        {
+          "de": "Hockey",
+          "ar": "هوكي"
+        },
+        {
+          "de": "Wrestling",
+          "ar": "مصارعة"
+        },
+        {
+          "de": "Yoga",
+          "ar": "يوغا"
+        },
+        {
+          "de": "Tanzen",
+          "ar": "رقص"
+        },
+        {
+          "de": "Klettern",
+          "ar": "تسلق"
+        },
+        {
+          "de": "Reiten",
+          "ar": "ركوب خيل"
+        },
+        {
+          "de": "Spiel",
+          "ar": "لعبة"
+        },
+        {
+          "de": "Mannschaft",
+          "ar": "فريق"
+        },
+        {
+          "de": "Trainer",
+          "ar": "مدرب"
+        },
+        {
+          "de": "Stadion",
+          "ar": "ملعب"
+        },
+        {
+          "de": "Medaille",
+          "ar": "ميدالية"
+        },
+        {
+          "de": "Sieg",
+          "ar": "نصر"
+        },
+        {
+          "de": "Niederlage",
+          "ar": "هزيمة"
+        },
+        {
+          "de": "Wettbewerb",
+          "ar": "مسابقة"
+        },
+        {
+          "de": "Olympiade",
+          "ar": "أولمبياد"
+        },
+        {
+          "de": "Turnen",
+          "ar": "جمباز"
+        },
+        {
+          "de": "Bogenschießen",
+          "ar": "رماية"
+        },
+        {
+          "de": "Fechten",
+          "ar": "مبارزة"
+        },
+        {
+          "de": "Gewicht",
+          "ar": "وزن"
+        },
+        {
+          "de": "Training",
+          "ar": "تدريب"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title_ar": "التكنولوجيا",
+      "icon_code": "devices",
+      "words": [
+        {
+          "de": "Computer",
+          "ar": "حاسوب"
+        },
+        {
+          "de": "Handy",
+          "ar": "هاتف ذكي"
+        },
+        {
+          "de": "Internet",
+          "ar": "إنترنت"
+        },
+        {
+          "de": "Website",
+          "ar": "موقع إلكتروني"
+        },
+        {
+          "de": "E-Mail",
+          "ar": "بريد إلكتروني"
+        },
+        {
+          "de": "Bildschirm",
+          "ar": "شاشة"
+        },
+        {
+          "de": "Tastatur",
+          "ar": "لوحة مفاتيح"
+        },
+        {
+          "de": "Maus",
+          "ar": "فأرة حاسوب"
+        },
+        {
+          "de": "Drucker",
+          "ar": "طابعة"
+        },
+        {
+          "de": "Kamera",
+          "ar": "كاميرا"
+        },
+        {
+          "de": "Lautsprecher",
+          "ar": "مكبر صوت"
+        },
+        {
+          "de": "Kopfhörer",
+          "ar": "سماعات"
+        },
+        {
+          "de": "Batterie",
+          "ar": "بطارية"
+        },
+        {
+          "de": "Ladegerät",
+          "ar": "شاحن"
+        },
+        {
+          "de": "Kabel",
+          "ar": "كابل"
+        },
+        {
+          "de": "Software",
+          "ar": "برنامج"
+        },
+        {
+          "de": "App",
+          "ar": "تطبيق"
+        },
+        {
+          "de": "Passwort",
+          "ar": "كلمة مرور"
+        },
+        {
+          "de": "Datei",
+          "ar": "ملف"
+        },
+        {
+          "de": "Ordner",
+          "ar": "مجلد"
+        },
+        {
+          "de": "Herunterladen",
+          "ar": "تحميل"
+        },
+        {
+          "de": "Hochladen",
+          "ar": "رفع"
+        },
+        {
+          "de": "Speicher",
+          "ar": "ذاكرة"
+        },
+        {
+          "de": "Festplatte",
+          "ar": "قرص صلب"
+        },
+        {
+          "de": "Netzwerk",
+          "ar": "شبكة"
+        },
+        {
+          "de": "WLAN",
+          "ar": "واي فاي"
+        },
+        {
+          "de": "Bluetooth",
+          "ar": "بلوتوث"
+        },
+        {
+          "de": "Roboter",
+          "ar": "روبوت"
+        },
+        {
+          "de": "Künstliche Intelligenz",
+          "ar": "ذكاء اصطناعي"
+        },
+        {
+          "de": "Algorithmus",
+          "ar": "خوارزمية"
+        }
+      ]
+    },
+    {
+      "id": "shopping",
+      "title_ar": "التسوق",
+      "icon_code": "shopping_cart",
+      "words": [
+        {
+          "de": "Geschäft",
+          "ar": "متجر"
+        },
+        {
+          "de": "Preis",
+          "ar": "سعر"
+        },
+        {
+          "de": "Geld",
+          "ar": "مال"
+        },
+        {
+          "de": "Euro",
+          "ar": "يورو"
+        },
+        {
+          "de": "Rechnung",
+          "ar": "فاتورة"
+        },
+        {
+          "de": "Rabatt",
+          "ar": "خصم"
+        },
+        {
+          "de": "Angebot",
+          "ar": "عرض"
+        },
+        {
+          "de": "Kasse",
+          "ar": "صندوق"
+        },
+        {
+          "de": "Korb",
+          "ar": "سلة"
+        },
+        {
+          "de": "Einkaufswagen",
+          "ar": "عربة تسوق"
+        },
+        {
+          "de": "Kreditkarte",
+          "ar": "بطاقة ائتمان"
+        },
+        {
+          "de": "Bargeld",
+          "ar": "نقد"
+        },
+        {
+          "de": "Wechselgeld",
+          "ar": "باقي"
+        },
+        {
+          "de": "Quittung",
+          "ar": "إيصال"
+        },
+        {
+          "de": "Größe",
+          "ar": "مقاس"
+        },
+        {
+          "de": "Farbe",
+          "ar": "لون"
+        },
+        {
+          "de": "Kaufen",
+          "ar": "شراء"
+        },
+        {
+          "de": "Verkaufen",
+          "ar": "بيع"
+        },
+        {
+          "de": "Teuer",
+          "ar": "غالي"
+        },
+        {
+          "de": "Billig",
+          "ar": "رخيص"
+        },
+        {
+          "de": "Kostenlos",
+          "ar": "مجاني"
+        },
+        {
+          "de": "Bestellung",
+          "ar": "طلب"
+        },
+        {
+          "de": "Lieferung",
+          "ar": "توصيل"
+        },
+        {
+          "de": "Paket",
+          "ar": "طرد"
+        },
+        {
+          "de": "Rückgabe",
+          "ar": "إرجاع"
+        },
+        {
+          "de": "Tausch",
+          "ar": "تبديل"
+        },
+        {
+          "de": "Marke",
+          "ar": "ماركة"
+        },
+        {
+          "de": "Qualität",
+          "ar": "جودة"
+        },
+        {
+          "de": "Ware",
+          "ar": "بضاعة"
+        },
+        {
+          "de": "Sonderangebot",
+          "ar": "عرض خاص"
+        }
+      ]
+    },
+    {
+      "id": "health",
+      "title_ar": "الصحة",
+      "icon_code": "favorite",
+      "words": [
+        {
+          "de": "Gesundheit",
+          "ar": "صحة"
+        },
+        {
+          "de": "Krankheit",
+          "ar": "مرض"
+        },
+        {
+          "de": "Schmerz",
+          "ar": "ألم"
+        },
+        {
+          "de": "Fieber",
+          "ar": "حمى"
+        },
+        {
+          "de": "Husten",
+          "ar": "سعال"
+        },
+        {
+          "de": "Kopfschmerzen",
+          "ar": "صداع"
+        },
+        {
+          "de": "Bauchschmerzen",
+          "ar": "ألم بطن"
+        },
+        {
+          "de": "Erkältung",
+          "ar": "نزلة برد"
+        },
+        {
+          "de": "Allergie",
+          "ar": "حساسية"
+        },
+        {
+          "de": "Medizin",
+          "ar": "دواء"
+        },
+        {
+          "de": "Tablette",
+          "ar": "حبة"
+        },
+        {
+          "de": "Pille",
+          "ar": "قرص"
+        },
+        {
+          "de": "Salbe",
+          "ar": "مرهم"
+        },
+        {
+          "de": "Verband",
+          "ar": "ضمادة"
+        },
+        {
+          "de": "Thermometer",
+          "ar": "ميزان حرارة"
+        },
+        {
+          "de": "Blutdruck",
+          "ar": "ضغط الدم"
+        },
+        {
+          "de": "Puls",
+          "ar": "نبض"
+        },
+        {
+          "de": "Operation",
+          "ar": "عملية جراحية"
+        },
+        {
+          "de": "Behandlung",
+          "ar": "علاج"
+        },
+        {
+          "de": "Rezept",
+          "ar": "وصفة طبية"
+        },
+        {
+          "de": "Impfung",
+          "ar": "تطعيم"
+        },
+        {
+          "de": "Gewicht",
+          "ar": "وزن"
+        },
+        {
+          "de": "Blut",
+          "ar": "دم"
+        },
+        {
+          "de": "Knochen",
+          "ar": "عظم"
+        },
+        {
+          "de": "Muskel",
+          "ar": "عضلة"
+        },
+        {
+          "de": "Atem",
+          "ar": "نفس"
+        },
+        {
+          "de": "Schlaf",
+          "ar": "نوم"
+        },
+        {
+          "de": "Gesund",
+          "ar": "صحي"
+        },
+        {
+          "de": "Krank",
+          "ar": "مريض"
+        },
+        {
+          "de": "Verletzung",
+          "ar": "إصابة"
+        }
+      ]
+    },
+    {
+      "id": "daily_verbs",
+      "title_ar": "أفعال يومية",
+      "icon_code": "directions_run",
+      "words": [
+        {
+          "de": "Gehen",
+          "ar": "يذهب"
+        },
+        {
+          "de": "Kommen",
+          "ar": "يأتي"
+        },
+        {
+          "de": "Essen",
+          "ar": "يأكل"
+        },
+        {
+          "de": "Trinken",
+          "ar": "يشرب"
+        },
+        {
+          "de": "Schlafen",
+          "ar": "ينام"
+        },
+        {
+          "de": "Arbeiten",
+          "ar": "يعمل"
+        },
+        {
+          "de": "Spielen",
+          "ar": "يلعب"
+        },
+        {
+          "de": "Lesen",
+          "ar": "يقرأ"
+        },
+        {
+          "de": "Schreiben",
+          "ar": "يكتب"
+        },
+        {
+          "de": "Sprechen",
+          "ar": "يتكلم"
+        },
+        {
+          "de": "Hören",
+          "ar": "يسمع"
+        },
+        {
+          "de": "Sehen",
+          "ar": "يرى"
+        },
+        {
+          "de": "Denken",
+          "ar": "يفكر"
+        },
+        {
+          "de": "Wissen",
+          "ar": "يعرف"
+        },
+        {
+          "de": "Verstehen",
+          "ar": "يفهم"
+        },
+        {
+          "de": "Machen",
+          "ar": "يفعل / يصنع"
+        },
+        {
+          "de": "Nehmen",
+          "ar": "يأخذ"
+        },
+        {
+          "de": "Geben",
+          "ar": "يعطي"
+        },
+        {
+          "de": "Bringen",
+          "ar": "يحضر"
+        },
+        {
+          "de": "Fahren",
+          "ar": "يقود"
+        },
+        {
+          "de": "Fliegen",
+          "ar": "يطير"
+        },
+        {
+          "de": "Schwimmen",
+          "ar": "يسبح"
+        },
+        {
+          "de": "Laufen",
+          "ar": "يركض"
+        },
+        {
+          "de": "Sitzen",
+          "ar": "يجلس"
+        },
+        {
+          "de": "Stehen",
+          "ar": "يقف"
+        },
+        {
+          "de": "Liegen",
+          "ar": "يستلقي"
+        },
+        {
+          "de": "Öffnen",
+          "ar": "يفتح"
+        },
+        {
+          "de": "Schließen",
+          "ar": "يغلق"
+        },
+        {
+          "de": "Beginnen",
+          "ar": "يبدأ"
+        },
+        {
+          "de": "Enden",
+          "ar": "ينتهي"
+        },
+        {
+          "de": "Kochen",
+          "ar": "يطبخ"
+        },
+        {
+          "de": "Waschen",
+          "ar": "يغسل"
+        },
+        {
+          "de": "Putzen",
+          "ar": "ينظف"
+        },
+        {
+          "de": "Kaufen",
+          "ar": "يشتري"
+        },
+        {
+          "de": "Verkaufen",
+          "ar": "يبيع"
+        },
+        {
+          "de": "Bauen",
+          "ar": "يبني"
+        },
+        {
+          "de": "Lernen",
+          "ar": "يتعلم"
+        },
+        {
+          "de": "Lehren",
+          "ar": "يعلّم"
+        },
+        {
+          "de": "Helfen",
+          "ar": "يساعد"
+        },
+        {
+          "de": "Warten",
+          "ar": "ينتظر"
+        },
+        {
+          "de": "Fragen",
+          "ar": "يسأل"
+        },
+        {
+          "de": "Antworten",
+          "ar": "يجيب"
+        },
+        {
+          "de": "Lachen",
+          "ar": "يضحك"
+        },
+        {
+          "de": "Weinen",
+          "ar": "يبكي"
+        },
+        {
+          "de": "Lieben",
+          "ar": "يحب"
+        },
+        {
+          "de": "Hassen",
+          "ar": "يكره"
+        },
+        {
+          "de": "Mögen",
+          "ar": "يعجب"
+        },
+        {
+          "de": "Wollen",
+          "ar": "يريد"
+        },
+        {
+          "de": "Können",
+          "ar": "يستطيع"
+        },
+        {
+          "de": "Müssen",
+          "ar": "يجب"
+        }
+      ]
+    },
+    {
+      "id": "adjectives",
+      "title_ar": "الصفات",
+      "icon_code": "format_paint",
+      "words": [
+        {
+          "de": "Groß",
+          "ar": "كبير"
+        },
+        {
+          "de": "Klein",
+          "ar": "صغير"
+        },
+        {
+          "de": "Alt",
+          "ar": "قديم / عجوز"
+        },
+        {
+          "de": "Jung",
+          "ar": "شاب / جديد"
+        },
+        {
+          "de": "Neu",
+          "ar": "جديد"
+        },
+        {
+          "de": "Schön",
+          "ar": "جميل"
+        },
+        {
+          "de": "Hässlich",
+          "ar": "قبيح"
+        },
+        {
+          "de": "Gut",
+          "ar": "جيد"
+        },
+        {
+          "de": "Schlecht",
+          "ar": "سيء"
+        },
+        {
+          "de": "Schnell",
+          "ar": "سريع"
+        },
+        {
+          "de": "Langsam",
+          "ar": "بطيء"
+        },
+        {
+          "de": "Stark",
+          "ar": "قوي"
+        },
+        {
+          "de": "Schwach",
+          "ar": "ضعيف"
+        },
+        {
+          "de": "Hell",
+          "ar": "فاتح"
+        },
+        {
+          "de": "Dunkel",
+          "ar": "داكن"
+        },
+        {
+          "de": "Leicht",
+          "ar": "خفيف / سهل"
+        },
+        {
+          "de": "Schwer",
+          "ar": "ثقيل / صعب"
+        },
+        {
+          "de": "Weich",
+          "ar": "ناعم"
+        },
+        {
+          "de": "Hart",
+          "ar": "صلب"
+        },
+        {
+          "de": "Nass",
+          "ar": "مبلل"
+        },
+        {
+          "de": "Trocken",
+          "ar": "جاف"
+        },
+        {
+          "de": "Süß",
+          "ar": "حلو"
+        },
+        {
+          "de": "Sauer",
+          "ar": "حامض"
+        },
+        {
+          "de": "Bitter",
+          "ar": "مر"
+        },
+        {
+          "de": "Scharf",
+          "ar": "حاد / حار"
+        },
+        {
+          "de": "Fröhlich",
+          "ar": "مرح"
+        },
+        {
+          "de": "Freundlich",
+          "ar": "ودود"
+        },
+        {
+          "de": "Höflich",
+          "ar": "مهذب"
+        },
+        {
+          "de": "Frech",
+          "ar": "وقح"
+        },
+        {
+          "de": "Intelligent",
+          "ar": "ذكي"
+        },
+        {
+          "de": "Dumm",
+          "ar": "غبي"
+        },
+        {
+          "de": "Reich",
+          "ar": "غني"
+        },
+        {
+          "de": "Arm",
+          "ar": "فقير"
+        },
+        {
+          "de": "Sauber",
+          "ar": "نظيف"
+        },
+        {
+          "de": "Schmutzig",
+          "ar": "قذر"
+        },
+        {
+          "de": "Richtig",
+          "ar": "صحيح"
+        },
+        {
+          "de": "Falsch",
+          "ar": "خطأ"
+        },
+        {
+          "de": "Voll",
+          "ar": "ممتلئ"
+        },
+        {
+          "de": "Leer",
+          "ar": "فارغ"
+        },
+        {
+          "de": "Breit",
+          "ar": "عريض"
+        },
+        {
+          "de": "Schmal",
+          "ar": "ضيق"
+        },
+        {
+          "de": "Hoch",
+          "ar": "عالي"
+        },
+        {
+          "de": "Tief",
+          "ar": "عميق"
+        },
+        {
+          "de": "Nah",
+          "ar": "قريب"
+        },
+        {
+          "de": "Fern",
+          "ar": "بعيد"
+        },
+        {
+          "de": "Ruhig",
+          "ar": "هادئ"
+        },
+        {
+          "de": "Laut",
+          "ar": "صاخب"
+        },
+        {
+          "de": "Wichtig",
+          "ar": "مهم"
+        },
+        {
+          "de": "Interessant",
+          "ar": "مثير للاهتمام"
+        },
+        {
+          "de": "Langweilig",
+          "ar": "ممل"
+        }
+      ]
+    }
+  ]
+}
